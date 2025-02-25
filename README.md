@@ -1,11 +1,11 @@
 <header>
 
-¡Hola mi gente! Me llamo LaTroy y soy de Norteamérica. Tengo trienta y dos años, y estudiante de la Universidad de Valencia, y me encanta pescar ¡Vamos a conocernos! :wave :smiley 
+¡Hola mi gente! Me llamo LaTroy y soy de Norteamérica. Tengo trienta y dos años, y estudiante de la Universidad de Valencia, y me encanta pescar ¡Vamos a conocernos! 👋 😃 
 
-Hello everyone! I'm LaTroy, a 32 year-old veteran who is in college to become a software engineer! Lets get to know each other better! :saluting_face :uruguay 
+Hello everyone! I'm LaTroy, a 32 year-old veteran who is in college to become a software engineer! Lets get to know each other better! 🫡 🇺🇾 
 
 </header>
-
+---
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
