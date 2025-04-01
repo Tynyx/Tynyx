@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/tynyx"><img src="https://api.daily.dev/devcards/v2/qjCvOLfUicrf4O58uBw74.png?type=default&r=mv9" width="356" alt="LaTroy's Dev Card"/></a>
+
 <header>
 <!-- Trying to get the readers attention by typing in two different languages and utulizing the Header tab to show my HTML skills --!>
   
